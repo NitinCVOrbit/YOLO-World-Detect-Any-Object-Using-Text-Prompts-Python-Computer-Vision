@@ -27,5 +27,6 @@ Watch the complete tutorial:
 - PyTorch
 - Google Colab
   
-```
-⭐ If you find this project useful, don't forget to star this repository and subscribe to the YouTube channel!
+---
+⭐ If you find this project useful, don't forget to star this repository and subscribe to the YouTube channel
+
